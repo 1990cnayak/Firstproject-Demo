@@ -1,0 +1,23 @@
+{
+  "name": "firstproject-demo",
+  "version": "1.0.0",
+  "description": "This a Demo Project to learn about Git and Github\r <br>\r Author - Chinmaya Kumar Nayak\r </br>",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1990cnayak/Firstproject-Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/1990cnayak/Firstproject-Demo/issues"
+  },
+  "homepage": "https://github.com/1990cnayak/Firstproject-Demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.0",
+    "@types/node": "^26.0.0"
+  }
+}
